@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6882'
     url: http://www.gutenberg.org/2009/agents/6882
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34511#The-Supposed-Autographa-of-John-the-Scot
 gutenberg_issued: '2010-11-30'
 gutenberg_type: Text
 identifiers:
